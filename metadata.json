@@ -1,0 +1,6 @@
+{
+  "name": "JOB Lo - AI Powered Career Platform",
+  "description": "An AI-powered job board, resume builder, and career coaching platform designed for students, professionals, and government job aspirants in India and globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /jobs
+Allow: /government-jobs
+Allow: /companies
+Disallow: /admin
+Disallow: /dashboard
+
+Sitemap: https://joblo.in/sitemap.xml
+Sitemap: https://joblo.in/sitemap-jobs.xml
+Sitemap: https://joblo.in/sitemap-companies.xml
